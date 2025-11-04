@@ -1,0 +1,23 @@
+## Установка (первый запуск)
+1. Установи Git: https://git-scm.com/download/win (прокликай везде "Далее") 
+2. Открой папку с Minecraft
+3. Удали старые `mods/`, `config/`, `shaderpacks/` (если есть)  
+4. В этой папке **ПКМ → Git Bash Here**
+5. Введи команду:
+
+```
+git clone [https://github.com/proovethetruth/Create-Zombie-Modpack.git](https://github.com/proovethetruth/Create-Zombie-Modpack.git) .
+```
+
+(точка в конце — обязательна)
+
+---
+
+## Обновление сборки
+Запускай файл:
+
+```
+update.bat
+```
+
+После этого сборка полностью синхронизируется с серверной версией.

@@ -1,0 +1,16 @@
+filename = 'ancore-4.0.1-forge-1.20.1.jar'
+name = 'AnCore Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '49e01ec3c42e345811501f3b478efd274f7b63c07ca2b3c5642b6acdc884d4a0a573cc323e5c706a150c40b4d18b1e2fbc5cd5b917968fb4d8aa3846c272d5a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5EbA5aZn/versions/JMbD16MF/ancore-4.0.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '5EbA5aZn'
+version = 'JMbD16MF'

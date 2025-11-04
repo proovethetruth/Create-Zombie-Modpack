@@ -1,0 +1,16 @@
+filename = 'flashlight TCT V4.6-forge-1.20.1.jar'
+name = 'Flashlight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2ef09ef61832e676307920099f890ed5b00f05e29da85476fa7e940bfae3b81b3aeedf6f327d2310ad67f5fe9d170cfb0cbf086a6cad25379fc7f8bcd17a8620'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E2PCVLL5/versions/30GoFpFd/flashlight TCT V4.6-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'E2PCVLL5'
+version = '30GoFpFd'

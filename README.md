@@ -13,10 +13,8 @@ git clone [https://github.com/proovethetruth/Create-Zombie-Modpack.git](https://
 
 (точка в конце — обязательна)
 
----
-
 ## Обновление сборки
-Запускай файл:
+Тупо запускай файл:
 
 ```
 update.bat

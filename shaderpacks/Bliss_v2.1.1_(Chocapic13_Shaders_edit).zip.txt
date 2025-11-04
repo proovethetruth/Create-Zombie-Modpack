@@ -1,4 +1,0 @@
-#Sun Nov 02 21:34:13 MSK 2025
-Season_Length=91
-Start_Season=2
-TONEMAP=ToneMap_Hejl2015

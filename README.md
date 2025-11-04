@@ -6,7 +6,7 @@
 5. Введи команду:
 
 ```
-git clone [https://github.com/proovethetruth/Create-Zombie-Modpack.git](https://github.com/proovethetruth/Create-Zombie-Modpack.git) .
+git clone https://github.com/proovethetruth/Create-Zombie-Modpack.git .
 ```
 
 (точка в конце — обязательна)

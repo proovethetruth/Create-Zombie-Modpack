@@ -1,0 +1,16 @@
+filename = 'The-Hordes-1.20.1-1.5.4.jar'
+name = 'The Hordes'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ece9a69d23b3919a867071a1825eb91af4d6b8167deb595c76f67bdf70314b274bd165246adbc282dae853b24b6127519e74b15304a33f7a70d55cd9f667e70f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O3HDffUR/versions/aRBPMdFj/The-Hordes-1.20.1-1.5.4.jar'
+
+[update.modrinth]
+mod-id = 'O3HDffUR'
+version = 'aRBPMdFj'

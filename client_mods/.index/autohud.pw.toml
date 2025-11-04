@@ -1,0 +1,16 @@
+filename = 'autohud-8.7+1.20.1-forge.jar'
+name = 'Auto HUD'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ded188d45df245a4a0bf0c267983089cd3af3eb8dbfc616cdd5e99f65ce7c0d5324c2f23d4cefc7d647db05186460dc0124598608d1e611f4abf7d6277f7f70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/temczoTQ/versions/E3V1cOmD/autohud-8.7%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'temczoTQ'
+version = 'E3V1cOmD'

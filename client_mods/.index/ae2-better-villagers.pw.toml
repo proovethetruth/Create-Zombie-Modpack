@@ -1,0 +1,16 @@
+filename = 'ae_better_villagers-1.15.1.a.jar'
+name = 'AE2: Better Villagers'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1fcf40d3309023848c7cf65e486e24b94b19c47028c83fd3601b62dd44c6da5391c181207cefc04ecff93c2a2d87bbdb4225fb9f39ca028f7a720f568d7270e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9fG5wAkl/versions/qdCdDx1i/ae_better_villagers-1.15.1.a.jar'
+
+[update.modrinth]
+mod-id = '9fG5wAkl'
+version = 'qdCdDx1i'

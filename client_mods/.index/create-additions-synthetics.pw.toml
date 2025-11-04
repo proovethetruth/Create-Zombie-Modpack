@@ -1,0 +1,16 @@
+filename = 'create_additions_synthetics-3.4.4-forge-1.20.1.jar'
+name = 'Create Additions & Synthetics'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '05b733241dc4d44dcf7617c42549bec0deb9760dc32aa0077050371f3da79d4c86326047e7c72752e2c0f82603de648dab4d92c0aaa37a5ecf68139bde4a8c1c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NiaSKgRm/versions/5vLDhoYK/create_additions_synthetics-3.4.4-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'NiaSKgRm'
+version = '5vLDhoYK'

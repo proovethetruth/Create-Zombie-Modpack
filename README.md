@@ -1,4 +1,4 @@
-> **Учтите, что все файлы и модификации будут работать 1:1 так, как это реализовано у меня <u>(ваши сторонние моды удалятся)</u>**
+> **Учтите, что все файлы и модификации будут работать 1:1 так, как это реализовано у меня <u>(ваши сторонние моды и конфиги удалятся)</u>**
 
 ## Установка (первый запуск)
 1. Установи Git: https://git-scm.com/download/win (прокликай везде "Далее") 
@@ -8,7 +8,7 @@
 5. Введи команду:
 
 ```
-git clone [https://github.com/proovethetruth/Create-Zombie-Modpack.git](https://github.com/proovethetruth/Create-Zombie-Modpack.git) .
+git clone https://github.com/proovethetruth/Create-Zombie-Modpack.git .
 ```
 
 (точка в конце — обязательна)
